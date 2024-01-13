@@ -1,10 +1,9 @@
 Overview
 
-This repository contains a Python implementation of linear regression from scratch using gradient descent. The model is trained on a dataset containing information about salaries and years of experience.
+This repository contains a Python implementation of linear regression. The model is trained on a dataset containing information about salaries and years of experience.
 
 Files
-
-linear_regression_scratch.py: Python script containing the implementation of linear regression from scratch.
+ML_internship.ipynb: Python script containing the implementation of linear regression from training to evaluation.
 salary_data.csv: Dataset file containing information about salaries and years of experience.
 
 Dependencies
@@ -17,9 +16,6 @@ scikit-learn
 
 Usage
 Clone the repository:
-
-bash
-Copy code
 git clone https://github.com/gagana-ananda/Salary_Prediction.git
 
 Navigate to the project directory:

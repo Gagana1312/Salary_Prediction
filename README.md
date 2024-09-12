@@ -16,13 +16,13 @@ scikit-learn
 
 Usage
 Clone the repository:
-git clone https://github.com/gagana-ananda/Salary_Prediction.git
+git clone https://github.com/gagana1312/Salary_Prediction.git
 
 Navigate to the project directory:
 cd Salary_Prediction
 
 Open the Jupyter Notebook:
-jupyter notebook ML_internship.ipynb
+jupyter notebook LR_Model.ipynb
 
 Run the notebook cell by cell to execute the linear regression implementation.
 
@@ -34,4 +34,4 @@ Custom Linear Regression Class
 The notebook includes a custom implementation of linear regression in a LinearRegressionFromScratch class. You can adjust hyperparameters such as learning rate and epochs within the notebook.
 
 Evaluation
-The notebook calculates the R-squared value to evaluate the performance of the model on the test set. R-squared measures how well the model explains the variance in the target variable.
+The notebook calculates the R-squared value, MSE, and RMSE to evaluate the model's performance on the test set. R-squared measures how well the model explains the variance in the target variable.
